@@ -1,0 +1,11 @@
+* {
+  background: black;
+}
+
+body {
+  color: white;
+}
+h1 {
+  text-align: center;
+  padding: 250px;
+}
